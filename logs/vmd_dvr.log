@@ -1,0 +1,8 @@
+2022-09-23 11:56:42,815 - INFO - app started
+2022-09-23 11:56:42,816 - INFO - main loop started
+2022-09-23 11:56:51,228 - INFO - FPS = 30.0
+2022-09-23 11:56:51,229 - INFO - self.width = 1280
+2022-09-23 11:56:51,229 - INFO - self.height = 960
+2022-09-23 11:57:01,062 - INFO - something moved!
+2022-09-23 11:57:14,725 - INFO - main loop finished
+2022-09-23 11:57:14,725 - INFO - app finished
